@@ -2,7 +2,7 @@
 layout:     post
 title:      大数据集群安装
 subtitle:   zookeeper
-date:       2018-12-26
+date:       2018-7-27
 author:     zhangzhongxin
 header-img: img/post-bg-universe.jpg
 catalog: true
